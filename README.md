@@ -22,19 +22,8 @@ Ce projet applique l’algorithme de **K-Means Clustering** pour regrouper des �
 
 ## 📁 Structure du projet
 
-netflix-clustering/
-├── dataset/
-│ └── netflix.csv
-├── output/
-│ ├── clusters.png
-│ ├── pca_clusters.png
-│ ├── elbow_method.png
-│ ├── cluster_counts.png
-│ └── netflix_clustered.csv
-├── src/
-│ └── netflix_kmeans.py
-├── streamlit_app.py
-└── README.md
+![image](https://github.com/user-attachments/assets/3d9e9a10-dcc6-4b69-9127-a58dc1143f7a)
+
 
 ## 📊 Résultats visuels
 
